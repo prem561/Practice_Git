@@ -7,6 +7,7 @@
 <title>Admin Home</title>
 </head>
 <body>
-
+Welcome
 </body>
+
 </html>
